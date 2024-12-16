@@ -66,4 +66,4 @@ This project showcases a scalable, cloud-based data engineering solution leverag
 ## Contact
 Feel free to reach out:
 - **Email**: todd.maisano@gmail.com
-- **GitHub**: [Your GitHub Profile](https://github.com/toddmaisano)
+- **GitHub**: [GitHub Profile](https://github.com/toddmaisano)
